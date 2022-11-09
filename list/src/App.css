@@ -1,0 +1,46 @@
+.card{
+  height: 31.25rem;
+  margin-left: 40%;
+}
+
+.main_header{
+ 
+  text-align: center;
+  
+}
+
+.btn_add{
+  
+  height: 35px;
+}
+
+.del_btn{
+  height: 30px;
+  margin-left: 200px;
+  
+}
+
+.input_holder{
+  padding: 3px;
+  margin: 20px;
+  height: 40px;
+  width: 250px;
+  background-color: aliceblue;
+   border-style: none;
+   border-radius: 10px;
+ /* border-color: #D6D9E0; */
+  
+}
+
+.input_holder::placeholder{
+  color: darkblue;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+
+.new_item{
+  font-size: 20px;
+ 
+  
+  border-color: #D6D9E0;
+}
